@@ -53,7 +53,8 @@ Accuracy Comparision
 # Joint Plot Using Principle Component Analysis:
   ![image](https://user-images.githubusercontent.com/50083180/66768986-919be780-eed1-11e9-9330-49046575f9e8.png)
 
-# Conclusion: XGBoost and Random Forest are predicting price of cars with good accuracy.
+# Conclusion: 
+  XGBoost and Random Forest are predicting price of cars with good accuracy.
   
   
   
