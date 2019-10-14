@@ -43,10 +43,17 @@ Accuracy Comparision
   sports/speciality, etc...), and represents the average loss per car
   per year.
   
-  # Analysis of Categorical Data:
-    
-  
-  
+ # Analysis of Categorical Data:
+ ![image](https://user-images.githubusercontent.com/50083180/66768424-2f8eb280-eed0-11e9-912c-d97ab7a0ab91.png)  
+ # Visualizing Mileage across car makers:
+ ![image](https://user-images.githubusercontent.com/50083180/66768719-e12de380-eed0-11e9-9f02-6fcc92869f78.png)
+ # Box plots:
+ ![image](https://user-images.githubusercontent.com/50083180/66768822-1b978080-eed1-11e9-8c6b-b4199c0d529b.png)
+ ![image](https://user-images.githubusercontent.com/50083180/66768836-26521580-eed1-11e9-8909-4135971877c4.png)
+# Joint Plot Using Principle Component Analysis:
+  ![image](https://user-images.githubusercontent.com/50083180/66768986-919be780-eed1-11e9-9330-49046575f9e8.png)
+
+# Conclusion: XGBoost and Random Forest are predicting price of cars with good accuracy.
   
   
   
